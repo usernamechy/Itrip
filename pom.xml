@@ -15,6 +15,7 @@
         <module>itrip-search</module>
         <module>itrip-trade</module>
         <module>itrip-auth</module>
+        <module>Demo</module>
     </modules>
 
     <packaging>pom</packaging><!--maven继承工程的父工程-->
